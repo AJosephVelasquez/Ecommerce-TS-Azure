@@ -1,0 +1,18 @@
+[
+  {
+    "email": "anotherexampleemail6@gmail.com",
+    "password": "SamplePassword123!",
+    "productName": "ZARA COAT 3",
+    "cvv": "623",
+    "nameOnCard": "Alain Velasquez",
+    "coupon": "rahulshettyacademy"
+  },
+  {
+    "email": "anotherexampleemail5@gmail.com",
+    "password": "SamplePassword123!",
+    "productName": "ADIDAS ORIGINAL",
+    "cvv": "623",
+    "nameOnCard": "Alain Velasquez",
+    "coupon": "rahulshettyacademy"
+  }
+]
